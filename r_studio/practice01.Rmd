@@ -1,0 +1,22 @@
+---
+title: "ST2195_practice_asignment"
+author: "gilbert"
+date: "9/24/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(rmarkdown)
+```
+
+```{r}
+for (i in 1:10){
+  print(i)
+}
+```
+
+
